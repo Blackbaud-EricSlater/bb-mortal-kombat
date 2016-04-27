@@ -1,25 +1,18 @@
 {
   "name": "bb-mortal-kombat",
   "version": "0.0.1",
-  "common-ui": {
+  "bb-mortal-kombat": {
     "main": [
       "game/src/*.js",
       "game/styles/styles.css",
       "game/images/**/*"
     ]
   },
-  "homepage": "https://github.com/Blackbaud-EricSlater/mk.js",
+  "homepage": "https://github.com/Blackbaud-EricSlater/bb-mortal-kombat.js",
   "authors": [
     "Eric Slater <eric.slater@blackbaud.com>"
   ],
-  "description": "",
-  "main": "",
   "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ]
 }
