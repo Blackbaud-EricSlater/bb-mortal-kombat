@@ -7,5 +7,19 @@
       "game/styles/styles.css",
       "game/images/**/*"
     ]
-  }
+  },
+  "homepage": "https://github.com/Blackbaud-EricSlater/mk.js",
+  "authors": [
+    "Eric Slater <eric.slater@blackbaud.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
