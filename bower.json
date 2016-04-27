@@ -1,0 +1,11 @@
+{
+  "name": "bb-mortal-kombat",
+  "version": "0.0.0",
+  "common-ui": {
+    "main": [
+      "game/src/*.js",
+      "game/styles/styles.css",
+      "game/images/**/*"
+    ]
+  }
+}
